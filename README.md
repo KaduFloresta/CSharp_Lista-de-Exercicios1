@@ -38,4 +38,4 @@ Acima de 4.664,68        | 27,5%
 
 ## DESAFIO
 
-* **Crie um programa que teste se um número é primo**
+* **Crie um programa que teste se um número é primo.**
